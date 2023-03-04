@@ -3,6 +3,5 @@ com\fsoft\dao\UserDaoImpl.class
 com\fsoft\bean\User.class
 com\fsoft\controller\UserController.class
 com\fsoft\dao\UserRowMapper.class
-UserController.class
 com\fsoft\service\UserServiceImpl.class
 com\fsoft\service\IUserService.class
